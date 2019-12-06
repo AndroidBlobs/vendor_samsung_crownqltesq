@@ -1,0 +1,22 @@
+{
+  "config":{
+    "hw_platform": ["MTP", "Surf", "QRD"],
+    "soc_id": ["321"],
+    "revision": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"]
+  },
+  "lsm6dsm_0_platform":{
+    "owner": "lsm6dsm",
+    ".orient":{
+      "owner": "lsm6dsm",
+      "x":{ "type": "str", "ver": "0",
+        "data": "+x"
+      },
+      "y":{ "type": "str", "ver": "0",
+        "data": "-y"
+      },
+      "z":{ "type": "str", "ver": "0",
+        "data": "-z"
+      }
+    }
+  }
+}

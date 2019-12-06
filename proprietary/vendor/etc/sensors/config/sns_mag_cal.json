@@ -1,0 +1,22 @@
+{
+  "config": {
+    "hw_platform": [
+      "MTP",
+      "Dragon",
+      "Surf"
+    ],
+    "soc_id": [
+      "291",
+      "246",
+      "305",
+      "321",
+      "336"
+    ]
+  },
+  "sns_mag_cal_config": {
+    "owner": "sns_mag_cal",
+    "anomaly_threshold": {"type": "flt","ver": "0",
+      "data": "400.0"
+    }
+  }
+}

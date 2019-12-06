@@ -1,0 +1,296 @@
+{
+  "config":
+  {
+    "hw_platform": ["MTP", "Dragon", "Surf", "QRD"],
+    "soc_id": ["291", "246", "305", "321", "336"]
+  },
+
+
+  "sns_diag_sensor_datatype":
+  {
+    "owner":"diag_filter_sensor",
+
+    "geomag_rv":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "game_rv":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "gravity":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "cm":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "accel":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "sensor_temperature":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "motion_detect":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "gyro":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "pressure":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "mag":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "ambient_light":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "proximity":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "rgb":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "amd":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "gyro_cal":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "mag_cal":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "resampler":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "smd":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "dpc":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "gyro_rot_matrix":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "fmv":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "rotv":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "tilt":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "auto_rotation":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "activities":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "auto_brightness":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "activity_tracker":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "change_location_trigger":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "any_motion_detector":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "aod":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "approach":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "environment_adaptive_display":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "phone_status_monitor":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "step_count_alert":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "callpose":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "device_position":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "flat":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "free_fall":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "interrupt_gyro":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "movement":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "pickup":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "pose_alert":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "putdown":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "sensor_status_check":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "slocation_core":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "step_cnt_det":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    },
+    "wireless_charging_detection":
+    {
+      "type" : "int",
+      "ver" : "0",
+      "data" : "1"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- List of suboperators for LRA carrier -->
+<subops version="1">
+    <!-- Appalachian             -->
+    <subop gid1="BA00120000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Bluegrass               -->
+    <subop gid1="BA00010000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Cellcom                 -->
+    <subop gid1="BA00040000000000"
+        numeric="310600"
+        alpha="Cellcom"
+    />
+
+    <!-- Cross Telephone         -->
+    <subop gid1="BA00030000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Chat Mobility           -->
+    <subop gid1="BA00130000000000"
+        numeric="311430"
+        alpha="Default"
+    />
+
+    <!-- Mid-Rivers              -->
+    <subop gid1="BA00180000000000"
+        numeric="311480"
+        alpha="Mid-Rivers"
+    />
+
+    <!-- North West MO Cellular  -->
+    <subop gid1="BA00150000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Pioneer                 -->
+    <subop gid1="BA00020000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- ThumbCell               -->
+    <subop gid1="BA00050000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Copper Valley Wireless  -->
+    <subop gid1="BA00170000000000"
+        numeric="310930"
+        alpha="Copper Val"
+    />
+
+    <!-- STRATA Networks         -->
+    <subop gid1="BA00110000000000"
+        numeric="310000"
+        alpha="Default"
+    />
+
+    <!-- Triangle Communications -->
+    <subop gid1="BA00220000000000"
+        numeric="311480"
+        alpha="Triangle"
+    />
+</subops>

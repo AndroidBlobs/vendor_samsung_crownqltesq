@@ -1,0 +1,4 @@
+service sec_wsm_service /vendor/bin/vendor.samsung.security.wsm@1.0-service
+    class early_hal
+    user system
+    group system
